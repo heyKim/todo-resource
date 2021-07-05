@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
       - name: todo
-        image: jkk3366/jenkins:latest
+        image: jkk3366/jenkins:1
         imagePullPolicy: Always
         ports:
         - containerPort: 8082
