@@ -1,3 +1,3 @@
 kustomize:
   images:
-    - registry-1.docker.io/jkk3366/jenkins:1
+    - registry-1.docker.io/jkk3366/jenkins:latest
