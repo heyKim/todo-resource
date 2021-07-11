@@ -1,0 +1,3 @@
+kustomize:
+  images:
+  - jkk3366/jenkins:32
